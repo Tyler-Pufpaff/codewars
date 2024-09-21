@@ -1,4 +1,4 @@
-A repository filled with codewars challenges (kata). Currently Ranked # on the global leaderboard, Completed over 100+ challenges and Push 5 solutions every week.
+A repository filled with codewars challenges (kata). Completed over 100+ challenges and Push 5 solutions every week.
 
 ## How It's Made:
 
