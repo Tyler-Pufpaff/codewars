@@ -2,7 +2,8 @@ A repository filled with codewars challenges (kata). Completed over 100+ challen
 
 ## How It's Made:
 
-Tech Used: JavaScript
+Tech Used: <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+
 
 Everyday, the first thing I do is solve a Codewar!
 
